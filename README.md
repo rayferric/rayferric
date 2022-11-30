@@ -1,3 +1,20 @@
+### Panie mgr Jemioło,
+
+Tymczasowo umieszczam linki do stron tutaj na swoim profilu:
+- **https://rayferric.xyz/**
+- **https://intercera.rayferric.xyz/**
+
+Pierwsza strona znajduje się na mojej domenie, ale to zwykły rekord **CNAME** przekierowujący na adres **https://rayferric.github.io/**. Dodatkowo GitHub Pages skonfigurowany jest tak, żeby przekierowywać zapytania nie pochodzące z originu `rayferric.xyz` na ten origin. Zwracam uwagę na to, że wbrew pozorom strona hostowana jest wyłącznie na GitHub Pages.
+
+Druga strona to jeden z moich projektów umieszczony przeze mnie na maszynie wirtualnej Microsoft Azure. Do DNS dodany został klasyczny rekord **A** przekierowujący na adres IP `40.68.95.201` należący do Azure ([**subnet `40.68.0.0/16`**](https://isazure.azurewebsites.net/Reference/List)). Szczegółowy opis procesu tworzenia strony wraz ze zrzutami ekranu niebawem odnajdzie Pan tutaj poniżej.
+
+Serdecznie Pozdrawiam,
+<br>*Rafał Żelazko*
+
+---
+
+### 
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
