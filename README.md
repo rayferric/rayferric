@@ -1,12 +1,12 @@
 ### Panie mgr Jemioło,
 
 Tymczasowo umieszczam linki do stron tutaj na swoim profilu:
-- **https://rayferric.xyz/**
-- **https://intercera.rayferric.xyz/**
+- **https://rayferric.xyz**
+- **https://alt.rayferric.xyz**
 
-Pierwsza strona znajduje się na mojej domenie, ale to zwykły rekord **CNAME** przekierowujący na adres **https://rayferric.github.io/**. Dodatkowo GitHub Pages skonfigurowany jest tak, żeby przekierowywać zapytania nie pochodzące z originu `rayferric.xyz` na ten origin. Zwracam uwagę na to, że wbrew pozorom strona hostowana jest wyłącznie na GitHub Pages.
+Pierwsza strona znajduje się w mojej domenie, ale to zwykły rekord **CNAME** przekierowujący na adres **https://rayferric.github.io**. Zwracam uwagę na to, że wbrew pozorom strona hostowana jest wyłącznie na GitHub Pages i korzysta z Jekylla.
 
-Druga strona to jeden z moich projektów umieszczony przeze mnie na maszynie wirtualnej Microsoft Azure. Do DNS dodany został klasyczny rekord **A** przekierowujący na adres IP `40.68.95.201` należący do Azure ([**subnet `40.68.0.0/16`**](https://isazure.azurewebsites.net/Reference/List)). Szczegółowy opis procesu tworzenia strony wraz ze zrzutami ekranu niebawem odnajdzie Pan tutaj poniżej.
+Drugi link to moja poprzednia strona napisana w ReactJS i tymczasowo umieszczona na maszynie wirtualnej Microsoft Azure. Do DNS dodany został klasyczny rekord **A** przekierowujący na adres IP `20.223.239.153` należący do Microsoft Azure. Szczegółowy opis procesu tworzenia strony wraz ze zrzutami ekranu znajduje się na pierwszej podanej stronie, **https://rayferric.xyz**.
 
 Serdecznie Pozdrawiam,
 <br>*Rafał Żelazko*
