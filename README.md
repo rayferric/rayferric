@@ -8,6 +8,14 @@ Pierwsza strona znajduje się w mojej domenie, ale to zwykły rekord **CNAME** p
 
 Drugi link to moja poprzednia strona napisana w ReactJS i tymczasowo umieszczona na maszynie wirtualnej Microsoft Azure. Do DNS dodany został klasyczny rekord **A** przekierowujący na adres IP `20.223.239.153` należący do Microsoft Azure. Szczegółowy opis procesu tworzenia strony wraz ze zrzutami ekranu znajduje się na pierwszej podanej stronie, **https://rayferric.xyz**.
 
+Zwidelcowane repozytorium do podpunktu 6.10: **https://github.com/rayferric/attention-is-all-you-need-pytorch**
+
+Artykuł naukowy na Papers with Code: **https://paperswithcode.com/paper/attention-is-all-you-need**
+
+Forki tworzy się po to, żeby zapobiec zniknięciu projektu z internetu (nigdy nie ma pewności, że właściciel repozytorium nie postanowi go usunąć) oraz żeby rozszerzyć projekt o własną funkcjonalność, co ewentualnie może zostać zwieńczone pull requestem do oryginalnego repozytorium.
+
+Myślę, że bardzo ważne jest żebyśmy wspierali otwarte oprogramowanie. M.in. właśnie dzięki licznym sponsorom i ogromnemu wsparciu, które otrzymuje **[Blender](https://www.blender.org/)** jest on w stanie stanowić bardzo dobrą alternatywę dla płatnych rozwiązań CAD. (Parafrazując Torvaldsa, "Adobe, f@ck you!")
+
 Serdecznie Pozdrawiam,
 <br>*Rafał Żelazko*
 
