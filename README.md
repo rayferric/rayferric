@@ -1,12 +1,10 @@
 ### Panie mgr Jemioło,
 
 Tymczasowo umieszczam linki do stron tutaj na swoim profilu:
+- **https://rayferric.github.io**
 - **https://rayferric.xyz**
-- **https://alt.rayferric.xyz**
 
-Pierwsza strona znajduje się w mojej domenie, ale to zwykły rekord **CNAME** przekierowujący na adres **https://rayferric.github.io**. Zwracam uwagę na to, że wbrew pozorom strona hostowana jest wyłącznie na GitHub Pages i korzysta z Jekylla.
-
-Drugi link to moja poprzednia strona napisana w ReactJS i tymczasowo umieszczona na maszynie wirtualnej Microsoft Azure. Do DNS dodany został klasyczny rekord **A** przekierowujący na adres IP `20.223.239.153` należący do Microsoft Azure. Szczegółowy opis procesu tworzenia strony wraz ze zrzutami ekranu znajduje się na pierwszej podanej stronie, **https://rayferric.xyz**.
+Drugi link to moja poprzednia strona napisana w ReactJS i umieszczona na maszynie wirtualnej na Oracle Cloud. Wpierw próbowałem umieścić ją na Microsoft Azure, ale po miesiącu od aktywacji konta, byłem zmuszony dodać środek płatniczy na co się nie zgodziłem. Pomimo, że strona została przeniesiona na serwery Oracle, nie zmieniłem napisanego już przeze mnie opisu umieszczania strony na Azure. Szczegółowy opis tego procesu wraz ze zrzutami ekranu znajduje się na pierwszej podanej stronie, **https://rayferric.github.io**.
 
 Zwidelcowane repozytorium do podpunktu 6.10: **https://github.com/rayferric/attention-is-all-you-need-pytorch**
 
