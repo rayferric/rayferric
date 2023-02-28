@@ -1,24 +1,3 @@
-### Panie mgr Jemioło,
-
-Tymczasowo umieszczam linki do stron tutaj na swoim profilu:
-- **https://rayferric.github.io**
-- **https://rayferric.xyz**
-
-Drugi link to moja poprzednia strona napisana w ReactJS i umieszczona na maszynie wirtualnej na Oracle Cloud. Wpierw próbowałem umieścić ją na Microsoft Azure, ale po miesiącu od aktywacji konta, byłem zmuszony dodać środek płatniczy na co się nie zgodziłem. Pomimo, że strona została przeniesiona na serwery Oracle, nie zmieniłem napisanego już przeze mnie opisu umieszczania strony na Azure. Szczegółowy opis tego procesu wraz ze zrzutami ekranu znajduje się na pierwszej podanej stronie, **https://rayferric.github.io**.
-
-Zwidelcowane repozytorium do podpunktu 6.10: **https://github.com/rayferric/attention-is-all-you-need-pytorch**
-
-Artykuł naukowy na Papers with Code: **https://paperswithcode.com/paper/attention-is-all-you-need**
-
-Forki tworzy się po to, żeby zapobiec zniknięciu projektu z internetu (nigdy nie ma pewności, że właściciel repozytorium nie postanowi go usunąć) oraz żeby rozszerzyć projekt o własną funkcjonalność, co ewentualnie może zostać zwieńczone pull requestem do oryginalnego repozytorium.
-
-Myślę, że bardzo ważne jest żebyśmy wspierali otwarte oprogramowanie. M.in. właśnie dzięki licznym sponsorom i ogromnemu wsparciu, które otrzymuje **[Blender](https://www.blender.org/)** jest on w stanie stanowić bardzo dobrą alternatywę dla płatnych rozwiązań CAD. (Parafrazując Torvaldsa, "Adobe, f@ck you!")
-
-Serdecznie Pozdrawiam,
-<br>*Rafał Żelazko*
-
----
-
 ### 
 
 <div align="center">
