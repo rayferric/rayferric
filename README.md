@@ -9,7 +9,7 @@
 | 🏀 | [soft-bodies](https://github.com/rayferric/soft-bodies) | Real-time soft body simulation sandbox | C++, OpenGL, Physics |
 | ☀️ | [optifine-shaders](https://github.com/rayferric/optifine-shaders) | Minecraft shader pack from scratch | GLSL, PBR, Modding |
 | 🎮 | [havook-1.12.2](https://github.com/rayferric/havook-1.12.2) | Hacked client for Minecraft Forge | Java, Modding |
-| 🤖 | [kalman_robot](https://github.com/rayferric/agh-space-systems-rover/kalman_robot) | Software for AGH Space Systems’ planetary rover | ROS 2, Python, C++ |
+| 🤖 | [kalman_robot](https://github.com/agh-space-systems-rover/kalman_robot) | Software for AGH Space Systems’ planetary rover | ROS 2, Python, C++ |
 
 ## 📊 My Habits
 
