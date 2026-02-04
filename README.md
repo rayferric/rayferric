@@ -2,7 +2,7 @@
 
 | | Repository | Description | Keywords |
 |-|-|-|-|
-| 🧠 | [tiny-nn](https://github.com/rayferric/tiny-nn) | Deep learning framework in C | C, ML, Torch/TF |
+| 🧠 | [tiny-nn](https://github.com/rayferric/tiny-nn) | Deep learning framework in C | C, Vulkan, ML, PyTorch |
 | 🧱 | [voxel-engine](https://github.com/rayferric/voxel-engine) | Voxel ray tracing with OpenGL | C++, OpenGL |
 | 🌠 | [path-tracer](https://github.com/rayferric/path-tracer) | CPU path tracer with life-like render quality | C++, Linalg, PBR |
 | ✈️ | [flight-sim](https://github.com/rayferric/flight-sim) | Fighter jet sim with OpenGL 4.6 graphics | C++, OpenGL, Physics |
