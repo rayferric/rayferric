@@ -2,9 +2,9 @@
 
 | | Repository | Description | Keywords |
 |-|-|-|-|
+| 🌠 | [path-tracer](https://github.com/rayferric/path-tracer) | Interactive  CUDA path tracer with PBR quality | CUDA, ImGui, PBR |
 | 🧠 | [tiny-nn](https://github.com/rayferric/tiny-nn) | Deep learning framework in C | C, Vulkan, ML, PyTorch |
 | 🧱 | [voxel-engine](https://github.com/rayferric/voxel-engine) | Voxel ray tracing with OpenGL | C++, OpenGL |
-| 🌠 | [path-tracer](https://github.com/rayferric/path-tracer) | CPU path tracer with life-like render quality | C++, Linalg, PBR |
 | ✈️ | [flight-sim](https://github.com/rayferric/flight-sim) | Fighter jet sim with OpenGL 4.6 graphics | C++, OpenGL, Physics |
 | 🏀 | [soft-bodies](https://github.com/rayferric/soft-bodies) | Real-time soft body simulation sandbox | C++, OpenGL, Physics |
 | ☀️ | [optifine-shaders](https://github.com/rayferric/optifine-shaders) | Minecraft shader pack from scratch | GLSL, PBR, Modding |
